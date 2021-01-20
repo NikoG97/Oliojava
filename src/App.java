@@ -8,7 +8,7 @@ public class App{
         Doge dog2 = new Doge();
 
 
-        System.out.println("Nimeni on: " + dog.getName());
+        System.out.println("Nimeni on: " + dog1.getName());
 
     }
 

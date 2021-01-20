@@ -1,2 +1,2 @@
 # Oliojava
-Mitähän vittua
+Juuh elikkäs ihan ensimmäisiä juttuja täällä

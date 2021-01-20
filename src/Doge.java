@@ -1,6 +1,6 @@
 package src;
 
-public class Doge(String n){
+public class Doge{
 
     private String name = "Doggo";
 
@@ -8,10 +8,9 @@ public class Doge(String n){
     public String getName(){
         return name;
     }
-    
+
     public void setName(String n){
         name = n;
     }
-
 
 }
